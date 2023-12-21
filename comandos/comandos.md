@@ -1,3 +1,5 @@
+# Comandos basicos do Git
+
 - Ver status comando: git status 
 
 - Adicionar arquivo no git: git add .   ou  git -A
