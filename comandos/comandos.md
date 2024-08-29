@@ -1,6 +1,6 @@
 # Comandos basicos do Git
 
- Configurar e-mail: git config --global user.email "inserir email"
+- Configurar e-mail: git config --global user.email "inserir email"
 - Configurar usuario: git condig --glogal user.name "inserir usuario do github"
 - Ver status comando: git status 
 
